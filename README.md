@@ -32,7 +32,7 @@ git clone https://github.com/shifananazeer/Folder-Setup.git
 npm install
 
 3. Start the development server
-npm start
+npm run dev
 
 ---
 
